@@ -1,2 +1,2 @@
-# pincone_chatbot_agent-
+# pinecone_chatbot_agent-
 pincone is a vector database to stores vector data
